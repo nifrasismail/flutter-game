@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2.9441,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 319.7921266261336,
+                "y": 183.92717638667165
+            }
+        },
+        "Level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.6836,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 220.15798712697483,
+                "y": 231.86073727325922
+            }
+        }
+    },
+    "last.imagePath": "/Users/nifras/game/adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Adventure.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx"
+    ],
+    "project": "Adventure.tiled-project",
+    "recentFiles": [
+        "Adventure.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
